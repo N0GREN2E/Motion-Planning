@@ -7,3 +7,7 @@ The Motion-Planning objective in this project is splited into three subtasks: be
 
 ### Motion Planning in the case of obstacle avoidance
 ![](image/Static%20Obstacle%20Avoidance%20Capture.gif)
+
+### Motion Planning in the case of stop sign
+![](image/State%20Machine_Decelerate%20to%20stop%20Capture.gif)
+![](image/State%20Machine_Decelerate%20to%20stop.gif)
