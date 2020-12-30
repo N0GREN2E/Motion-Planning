@@ -21,3 +21,6 @@ The Motion-Planning objective in this project is splited into three subtasks: be
 <img src="image/Local%20Planner.jpeg" width ="400">
 
 ### 2.3 Velocity Planner
+#### Use simple ramp velocity profile
+<img src="image/Ramp1.PNG" width ="400"> <img src="image/Ramp2.PNG" width ="400">
+#### Use trapezoidal profile
