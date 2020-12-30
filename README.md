@@ -14,3 +14,5 @@ The Motion-Planning objective in this project is splited into three subtasks: be
 
 ## 2. Brief introduction for different subsystems
 
+### 2.1 Behavioural Planner
+![](image/Finite%20State%20Machine.jpeg)
