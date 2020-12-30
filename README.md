@@ -18,6 +18,6 @@ The Motion-Planning objective in this project is splited into three subtasks: be
 ![](image/Finite%20State%20Machine.jpeg)
 
 ### 2.2 Local Planner
-<img src="image/Local%20Planner.jpeg" width ="100>
+<img src="image/Local%20Planner.jpeg" width ="100">
 ![](image/Local%20Planner.jpeg)
 
