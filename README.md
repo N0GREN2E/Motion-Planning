@@ -27,3 +27,6 @@ The Motion-Planning objective in this project is splited into three subtasks: be
 
 
 ## 3. Model Predictive Control approach for autonomous driving
+In addition, a MPC is designed for trajectory tracking.
+### 3.1  Kinematic model
+![](image/model_1.png)
