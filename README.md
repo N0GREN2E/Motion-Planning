@@ -30,3 +30,16 @@ The Motion-Planning objective in this project is splited into three subtasks: be
 In addition, a MPC is designed for trajectory tracking.
 ### 3.1  Kinematic model
 ![](image/model_1.png)
+The state equation:
+![](image/model_2.png)
+
+The linearized model:
+![](image/model_3.png)
+
+The jacobian matrix A and B:
+![](image/model_4.png)
+![](image/model_5.png)
+
+In order to solve this MPC optimisation problem, a QP solver is used. The required constraints and parameters will be adaptively and dynamically computed for QP solver.
+
+![](image/MPC_approach.gif)
