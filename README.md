@@ -32,7 +32,7 @@ In addition, a MPC is designed for trajectory tracking.
 
 ![](image/model_1.png)
 
-The state equation:
+
 ![](image/model_2.png)
 
 The linearized model:
